@@ -194,7 +194,7 @@ header {
     & .name {
       color: var(--header-text);
       margin-bottom: 0.25rem;
-      font: 1.25rem;
+      font-size: 1.25rem;
       font-weight: 700;
     }
   }
@@ -262,3 +262,4 @@ header {
 .toggle-switch .toggle-input:checked + .toggle-label::before {
   left: 25px;
 }
+
